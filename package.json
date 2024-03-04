@@ -1,0 +1,11 @@
+{
+  "name": "learning-express-2",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:Natalialas/learning-express-2.git",
+  "author": "Natalia Laszczkowska <natalia.laszczkowskax@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "express": "4.17.1"
+  }
+}
